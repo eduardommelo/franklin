@@ -1,0 +1,24 @@
+{
+    "activitys":[
+        {
+            "type":"PLAYING",
+            "message":"Olá ❤ ❤ ❤, me adicione no seu servidor f!botinfo"
+        },
+        {
+            "type":"PLAYING",
+            "message":"🔴 | Ative minhas funções digitando f!plugins e me configurando f!config"
+        },
+        {
+            "type":"STREAMING",
+            "message":"👀 Qualquer dúvida sobre meus comandos digite f!ajuda"
+        },
+        {
+            "type":"PLAYING",
+            "message":"Servidor de suporte f!suporte"
+        },
+        {
+            "type":"PLAYING",
+            "message":"Atualmente estou observando {users} membros da minha família! <3"
+        }
+    ]
+}

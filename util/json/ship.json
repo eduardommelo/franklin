@@ -1,0 +1,17 @@
+{
+    "1":[
+        "Vish, parece que o {user_two} anda te enrolando muito, não?",
+        "Vou te dizer a verdade, o {user_two} te deixou na friendzone.",
+        "Boatos correm de que o {user_two} não e muito chegado a ti."
+    ],
+    "2":[
+        "Wow!!! Ta quase lá em, faz esse amor viver {user_two}.",
+        "Com quem será que o {user_one} vai casar?",
+        "Hey {user_one}, faz um jantar romântico, pode dar certo!"
+    ],
+    "3":[
+        "EITA! Eu sou o padrinho do casório, tá {user_one}?",
+        "Ai {user_one}, vai fundo que ela ta na sua.",
+        "BINGO! {user_one} acaba de ganhar um namoro com {user_two}"
+    ]
+}

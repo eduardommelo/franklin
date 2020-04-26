@@ -1,0 +1,30 @@
+{
+  "name": "franklin.js",
+  "version": "1.0.0",
+  "description": "Um simples bot multi-funcional para a plataforma Discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "consign": "^0.1.6",
+    "escape-string-regexp": "^1.0.5",
+    "express": "^4.16.4",
+    "long": "^4.0.0",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.0",
+    "node-pre-gyp": "^0.13.0",
+    "opusscript": "0.0.6",
+    "path": "^0.12.7",
+    "prism-media": "^1.1.0",
+    "require-all": "^3.0.0",
+    "snekfetch": "^4.0.4",
+    "tweetnacl": "^1.0.1",
+    "ws": "^7.1.2"
+  }
+}
